@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9383D311-AB3E-4484-B9DF-F5D757074434}|Nirvana.View\\Nirvana.View.csproj|c:\\users\\s3\\onedrive\\desktop\\projectnirvana\\hotelnirvana\\nirvana.view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9383D311-AB3E-4484-B9DF-F5D757074434}|Nirvana.View\\Nirvana.View.csproj|solutionrelative:nirvana.view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AC2392-FA17-4396-BD34-46E54D3C1CD3}|Nirvana.Infrastructure\\Nirvana.Infrastructure.csproj|c:\\users\\s3\\onedrive\\desktop\\projectnirvana\\hotelnirvana\\nirvana.infrastructure\\repository\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AC2392-FA17-4396-BD34-46E54D3C1CD3}|Nirvana.Infrastructure\\Nirvana.Infrastructure.csproj|solutionrelative:nirvana.infrastructure\\repository\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9383D311-AB3E-4484-B9DF-F5D757074434}|Nirvana.View\\Nirvana.View.csproj|c:\\users\\s3\\onedrive\\desktop\\projectnirvana\\hotelnirvana\\nirvana.view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9383D311-AB3E-4484-B9DF-F5D757074434}|Nirvana.View\\Nirvana.View.csproj|solutionrelative:nirvana.view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1148E06-1F5A-49E2-A9A9-A68A1DEF1CF3}|Nirvana.Api\\Nirvana.Api.csproj|c:\\users\\s3\\onedrive\\desktop\\projectnirvana\\hotelnirvana\\nirvana.api\\controllers\\nirvanaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1148E06-1F5A-49E2-A9A9-A68A1DEF1CF3}|Nirvana.Api\\Nirvana.Api.csproj|solutionrelative:nirvana.api\\controllers\\nirvanaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1148E06-1F5A-49E2-A9A9-A68A1DEF1CF3}|Nirvana.Api\\Nirvana.Api.csproj|c:\\users\\s3\\onedrive\\desktop\\projectnirvana\\hotelnirvana\\nirvana.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1148E06-1F5A-49E2-A9A9-A68A1DEF1CF3}|Nirvana.Api\\Nirvana.Api.csproj|solutionrelative:nirvana.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9383D311-AB3E-4484-B9DF-F5D757074434}|Nirvana.View\\Nirvana.View.csproj|c:\\users\\s3\\onedrive\\desktop\\projectnirvana\\hotelnirvana\\nirvana.view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9383D311-AB3E-4484-B9DF-F5D757074434}|Nirvana.View\\Nirvana.View.csproj|solutionrelative:nirvana.view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359ABE89-0BA8-4CD5-AD05-C30FC04B07AC}|Nirvana.Application\\Nirvana.Application.csproj|c:\\users\\s3\\onedrive\\desktop\\projectnirvana\\hotelnirvana\\nirvana.application\\service\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359ABE89-0BA8-4CD5-AD05-C30FC04B07AC}|Nirvana.Application\\Nirvana.Application.csproj|solutionrelative:nirvana.application\\service\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359ABE89-0BA8-4CD5-AD05-C30FC04B07AC}|Nirvana.Application\\Nirvana.Application.csproj|c:\\users\\s3\\onedrive\\desktop\\projectnirvana\\hotelnirvana\\nirvana.application\\interfaces\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359ABE89-0BA8-4CD5-AD05-C30FC04B07AC}|Nirvana.Application\\Nirvana.Application.csproj|solutionrelative:nirvana.application\\interfaces\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359ABE89-0BA8-4CD5-AD05-C30FC04B07AC}|Nirvana.Application\\Nirvana.Application.csproj|c:\\users\\s3\\onedrive\\desktop\\projectnirvana\\hotelnirvana\\nirvana.application\\interfaces\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359ABE89-0BA8-4CD5-AD05-C30FC04B07AC}|Nirvana.Application\\Nirvana.Application.csproj|solutionrelative:nirvana.application\\interfaces\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.View\\Program.cs",
+              "RelativeDocumentMoniker": "Nirvana.View\\Program.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.View\\Program.cs",
+              "RelativeToolTip": "Nirvana.View\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:28:40.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.View\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nirvana.View\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.View\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nirvana.View\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T11:19:23.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.View\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nirvana.View\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.View\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nirvana.View\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:12:25.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Nirvana.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.Api\\Program.cs",
+              "RelativeToolTip": "Nirvana.Api\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:52:57.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NirvanaApiController.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.Api\\Controllers\\NirvanaApiController.cs",
+              "RelativeDocumentMoniker": "Nirvana.Api\\Controllers\\NirvanaApiController.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.Api\\Controllers\\NirvanaApiController.cs",
+              "RelativeToolTip": "Nirvana.Api\\Controllers\\NirvanaApiController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:40:46.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.Infrastructure\\Repository\\HotelRepository.cs",
+              "RelativeDocumentMoniker": "Nirvana.Infrastructure\\Repository\\HotelRepository.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.Infrastructure\\Repository\\HotelRepository.cs",
+              "RelativeToolTip": "Nirvana.Infrastructure\\Repository\\HotelRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:28:51.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.Application\\Service\\HotelService.cs",
+              "RelativeDocumentMoniker": "Nirvana.Application\\Service\\HotelService.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.Application\\Service\\HotelService.cs",
+              "RelativeToolTip": "Nirvana.Application\\Service\\HotelService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAewCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:20:43.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IHotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.Application\\Interfaces\\IHotelRepository.cs",
+              "RelativeDocumentMoniker": "Nirvana.Application\\Interfaces\\IHotelRepository.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.Application\\Interfaces\\IHotelRepository.cs",
+              "RelativeToolTip": "Nirvana.Application\\Interfaces\\IHotelRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwB8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:17:33.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IHotelService.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.Application\\Interfaces\\IHotelService.cs",
+              "RelativeDocumentMoniker": "Nirvana.Application\\Interfaces\\IHotelService.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\ProjectNirvana\\HotelNirvana\\Nirvana.Application\\Interfaces\\IHotelService.cs",
+              "RelativeToolTip": "Nirvana.Application\\Interfaces\\IHotelService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:15:27.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

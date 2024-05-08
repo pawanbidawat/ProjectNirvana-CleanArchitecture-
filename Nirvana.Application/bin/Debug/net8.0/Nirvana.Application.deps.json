@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Nirvana.Application/1.0.0": {
+        "dependencies": {
+          "Nirvana.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Nirvana.Application.dll": {}
+        }
+      },
+      "Nirvana.Domain/1.0.0": {
+        "runtime": {
+          "Nirvana.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nirvana.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nirvana.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

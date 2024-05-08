@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Nirvana.Api\\Nirvana.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "Nirvana.View\\Nirvana.View.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

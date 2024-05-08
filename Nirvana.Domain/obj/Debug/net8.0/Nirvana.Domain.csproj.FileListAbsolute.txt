@@ -1,0 +1,11 @@
+C:\Users\s3\OneDrive\Desktop\ProjectNirvana\HotelNirvana\Nirvana.Domain\bin\Debug\net8.0\Nirvana.Domain.deps.json
+C:\Users\s3\OneDrive\Desktop\ProjectNirvana\HotelNirvana\Nirvana.Domain\bin\Debug\net8.0\Nirvana.Domain.dll
+C:\Users\s3\OneDrive\Desktop\ProjectNirvana\HotelNirvana\Nirvana.Domain\bin\Debug\net8.0\Nirvana.Domain.pdb
+C:\Users\s3\OneDrive\Desktop\ProjectNirvana\HotelNirvana\Nirvana.Domain\obj\Debug\net8.0\Nirvana.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s3\OneDrive\Desktop\ProjectNirvana\HotelNirvana\Nirvana.Domain\obj\Debug\net8.0\Nirvana.Domain.AssemblyInfoInputs.cache
+C:\Users\s3\OneDrive\Desktop\ProjectNirvana\HotelNirvana\Nirvana.Domain\obj\Debug\net8.0\Nirvana.Domain.AssemblyInfo.cs
+C:\Users\s3\OneDrive\Desktop\ProjectNirvana\HotelNirvana\Nirvana.Domain\obj\Debug\net8.0\Nirvana.Domain.csproj.CoreCompileInputs.cache
+C:\Users\s3\OneDrive\Desktop\ProjectNirvana\HotelNirvana\Nirvana.Domain\obj\Debug\net8.0\Nirvana.Domain.dll
+C:\Users\s3\OneDrive\Desktop\ProjectNirvana\HotelNirvana\Nirvana.Domain\obj\Debug\net8.0\refint\Nirvana.Domain.dll
+C:\Users\s3\OneDrive\Desktop\ProjectNirvana\HotelNirvana\Nirvana.Domain\obj\Debug\net8.0\Nirvana.Domain.pdb
+C:\Users\s3\OneDrive\Desktop\ProjectNirvana\HotelNirvana\Nirvana.Domain\obj\Debug\net8.0\ref\Nirvana.Domain.dll
